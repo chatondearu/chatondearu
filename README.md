@@ -1,16 +1,13 @@
-### Hi there 👋
+### Wahagai wa neko de aru 🐈
 
-<!--
-**chatondearu/chatondearu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently working on a lot of cool stuff for:
+- The [Bar à Jeux Online](https://barajeuxonline.fr), the biggest french Discord server about boardgames and playing online ! (2k+ members)
+- My propper Twitch channel `ChatonDeAru` find more on [my website](https://chatondearu.fr) or follow me on [Twitch](https://twitch.tv/chatondearu)
+- [Fluctuo](https://fluctuo.com), the best place to find all the micro mobility data in the world !
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/chatondearu">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chatondearu&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/chatondearu">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chatondearu&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient" />
+</a>
